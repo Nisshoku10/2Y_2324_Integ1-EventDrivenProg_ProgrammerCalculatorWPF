@@ -4,7 +4,7 @@ using System.Windows.Controls;
 namespace FinalProgrammerCalculator
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Programmer Calculator Adaptation
     /// </summary>
     public partial class MainWindow : Window
     {
